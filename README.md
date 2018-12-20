@@ -1,4 +1,1 @@
-# Rust中文社区论坛
-
-
-提供一个Rst相关讨论，交流，问答，分享，展示的论坛.
+# [Rust中文社区论坛](https://github.com/rustlang-cn/forum/issues)
