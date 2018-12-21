@@ -1,1 +1,1 @@
-## [Rust中文社区论坛](https://github.com/rustlang-cn/forum/issues)
+## [Rust中文论坛](https://github.com/rustlang-cn/forum/issues)
